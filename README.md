@@ -22,7 +22,7 @@ Some intro images or GIF
 3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
 
 ## License
-[Project Title](https://github.com/8nhuman8/8nhuman-project-template) specific code is distributed under [MIT License](LICENSE).
+[Project Title](https://github.com/8nhuman8/8nhuman-project-template) specific code is distributed under [MIT License](https://github.com/8nhuman8/8nhuman-project-template/blob/master/LICENSE).
 
 Copyright (c) 2020 Artyom Bezmenov
 
