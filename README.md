@@ -17,9 +17,9 @@ Some intro images or GIF
 ## Command-line arguments description
 
 ## Credits and references
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+- Projects that inspired you.
+- Related projects.
+- Books, papers, talks, or other sources that have meaningful impact or influence on this project.
 
 ## License
 [Project Title](https://github.com/8nhuman8/8nhuman-project-template) specific code is distributed under [MIT License](https://github.com/8nhuman8/8nhuman-project-template/blob/master/LICENSE).
